@@ -1,0 +1,243 @@
+[
+  {
+    "kode": "JKT001",
+    "nama": "Botol Plastik HDPE",
+    "deskripsi": "500 ml, food-grade, bening",
+    "biaya_produksi_idr": 2057,
+    "harga_jual_idr": 2880,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "JKT002",
+    "nama": "Rol Lembaran LDPE",
+    "deskripsi": "2m x 100m, 100 mikron, hitam",
+    "biaya_produksi_idr": 285714,
+    "harga_jual_idr": 400000,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "JKT003",
+    "nama": "Wadah PP",
+    "deskripsi": "5L dengan tutup, aman microwave",
+    "biaya_produksi_idr": 14286,
+    "harga_jual_idr": 20000,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "JKT004",
+    "nama": "Pipa PVC",
+    "deskripsi": "Ø 3 inch, 4 meter, tahan tekanan",
+    "biaya_produksi_idr": 41143,
+    "harga_jual_idr": 57600,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "JKT005",
+    "nama": "Toples PET",
+    "deskripsi": "1L dengan tutup ulir, transparan",
+    "biaya_produksi_idr": 5143,
+    "harga_jual_idr": 7200,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "JKT006",
+    "nama": "Palet Plastik",
+    "deskripsi": "1200x1000mm, heavy duty",
+    "biaya_produksi_idr": 251429,
+    "harga_jual_idr": 352000,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "JKT007",
+    "nama": "Lembaran Polikarbonat",
+    "deskripsi": "4x8 ft, 5mm, tahan UV",
+    "biaya_produksi_idr": 400000,
+    "harga_jual_idr": 560000,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "JKT008",
+    "nama": "Peti Cetak Injeksi",
+    "deskripsi": "600x400x300 mm, bisa ditumpuk",
+    "biaya_produksi_idr": 54286,
+    "harga_jual_idr": 76000,
+    "lokasi": "Singapore"
+  },
+  {
+    "kode": "JKT009",
+    "nama": "Gantungan Plastik",
+    "deskripsi": "Gantungan pakaian standar, putih (per lusin)",
+    "biaya_produksi_idr": 28571,
+    "harga_jual_idr": 40000,
+    "lokasi": "Singapore"
+  },
+  {
+    "kode": "JKT010",
+    "nama": "Kotak Plastik",
+    "deskripsi": "Kotak penyimpanan 25cm x 40cm x 15cm",
+    "biaya_produksi_idr": 15000,
+    "harga_jual_idr": 20000,
+    "lokasi": "Singapore"
+  },
+  {
+    "kode": "SBY001",
+    "nama": "Botol Plastik HDPE",
+    "deskripsi": "500 ml, food-grade, bening",
+    "biaya_produksi_idr": 1023,
+    "harga_jual_idr": 1580,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "SBY002",
+    "nama": "Rol Lembaran LDPE",
+    "deskripsi": "2m x 100m, 100 mikron, hitam",
+    "biaya_produksi_idr": 203714,
+    "harga_jual_idr": 320000,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "SBY003",
+    "nama": "Wadah PP",
+    "deskripsi": "5L dengan tutup, aman microwave",
+    "biaya_produksi_idr": 12086,
+    "harga_jual_idr": 17000,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "SBY004",
+    "nama": "Pipa PVC",
+    "deskripsi": "Ø 3 inch, 4 meter, tahan tekanan",
+    "biaya_produksi_idr": 32143,
+    "harga_jual_idr": 45600,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "SBY005",
+    "nama": "Toples PET",
+    "deskripsi": "1L dengan tutup ulir, transparan",
+    "biaya_produksi_idr": 2143,
+    "harga_jual_idr": 6400,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "SBY006",
+    "nama": "Palet Plastik",
+    "deskripsi": "1200x1000mm, heavy duty",
+    "biaya_produksi_idr": 211429,
+    "harga_jual_idr": 312000,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "SBY007",
+    "nama": "Lembaran Polikarbonat",
+    "deskripsi": "4x8 ft, 5mm, tahan UV",
+    "biaya_produksi_idr": 320000,
+    "harga_jual_idr": 480000,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "SBY008",
+    "nama": "Peti Cetak Injeksi",
+    "deskripsi": "600x400x300 mm, bisa ditumpuk",
+    "biaya_produksi_idr": 36286,
+    "harga_jual_idr": 66000,
+    "lokasi": "Singapore"
+  },
+  {
+    "kode": "SBY009",
+    "nama": "Gantungan Plastik",
+    "deskripsi": "Gantungan pakaian standar, putih (per lusin)",
+    "biaya_produksi_idr": 20571,
+    "harga_jual_idr": 35000,
+    "lokasi": "Singapore"
+  },
+  {
+    "kode": "SBY010",
+    "nama": "Kotak Plastik",
+    "deskripsi": "Kotak penyimpanan 25cm x 40cm x 15cm",
+    "biaya_produksi_idr": 15000,
+    "harga_jual_idr": 20000,
+    "lokasi": "Singapore"
+  },
+  {
+    "kode": "SGP001",
+    "nama": "Botol Plastik HDPE",
+    "deskripsi": "500 ml, food-grade, bening",
+    "biaya_produksi_idr": 2057,
+    "harga_jual_idr": 3168,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "SGP002",
+    "nama": "Rol Lembaran LDPE",
+    "deskripsi": "2m x 100m, 100 mikron, hitam",
+    "biaya_produksi_idr": 285714,
+    "harga_jual_idr": 440000,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "SGP003",
+    "nama": "Wadah PP",
+    "deskripsi": "5L dengan tutup, aman microwave",
+    "biaya_produksi_idr": 14286,
+    "harga_jual_idr": 22000,
+    "lokasi": "Jakarta"
+  },
+  {
+    "kode": "SGP004",
+    "nama": "Pipa PVC",
+    "deskripsi": "Ø 3 inch, 4 meter, tahan tekanan",
+    "biaya_produksi_idr": 41143,
+    "harga_jual_idr": 63360,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "SGP005",
+    "nama": "Toples PET",
+    "deskripsi": "1L dengan tutup ulir, transparan",
+    "biaya_produksi_idr": 5143,
+    "harga_jual_idr": 7920,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "SGP006",
+    "nama": "Palet Plastik",
+    "deskripsi": "1200x1000mm, heavy duty",
+    "biaya_produksi_idr": 251429,
+    "harga_jual_idr": 387200,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "SGP007",
+    "nama": "Lembaran Polikarbonat",
+    "deskripsi": "4x8 ft, 5mm, tahan UV",
+    "biaya_produksi_idr": 400000,
+    "harga_jual_idr": 616000,
+    "lokasi": "Surabaya"
+  },
+  {
+    "kode": "SGP008",
+    "nama": "Peti Cetak Injeksi",
+    "deskripsi": "600x400x300 mm, bisa ditumpuk",
+    "biaya_produksi_idr": 54286,
+    "harga_jual_idr": 83600,
+    "lokasi": "Singapore"
+  },
+  {
+    "kode": "SGP009",
+    "nama": "Gantungan Plastik",
+    "deskripsi": "Gantungan pakaian standar, putih (per lusin)",
+    "biaya_produksi_idr": 28571,
+    "harga_jual_idr": 44000,
+    "lokasi": "Singapore"
+  },
+  {
+    "kode": "SGP010",
+    "nama": "Kotak Plastik",
+    "deskripsi": "Kotak penyimpanan 25cm x 40cm x 15cm",
+    "biaya_produksi_idr": 15000,
+    "harga_jual_idr": 20000,
+    "lokasi": "Singapore"
+  }
+]
+
